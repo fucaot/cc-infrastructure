@@ -1,0 +1,11 @@
+vcpkg-configuration.json
+
+bak-CMakePresets.json
+
+bak-CMakeUserPresets.json
+
+vcpkg_installed/
+
+build/
+
+.cache/
