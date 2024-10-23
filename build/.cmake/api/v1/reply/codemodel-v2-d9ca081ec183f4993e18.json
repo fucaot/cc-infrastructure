@@ -9,7 +9,8 @@
 					"childIndexes" : 
 					[
 						1,
-						2
+						2,
+						3
 					],
 					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
@@ -31,7 +32,7 @@
 					"source" : "core",
 					"targetIndexes" : 
 					[
-						0
+						1
 					]
 				},
 				{
@@ -46,7 +47,22 @@
 					"source" : "engine",
 					"targetIndexes" : 
 					[
-						1
+						2
+					]
+				},
+				{
+					"build" : "cm",
+					"jsonFile" : "directory-cm-66fa5c16721946d70096.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "cm",
+					"targetIndexes" : 
+					[
+						0
 					]
 				}
 			],
@@ -58,29 +74,38 @@
 					[
 						0,
 						1,
-						2
+						2,
+						3
 					],
 					"name" : "Infrastructure",
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
 			"targets" : 
 			[
 				{
+					"directoryIndex" : 3,
+					"id" : "cm::@dab1033648fd68bff38e",
+					"jsonFile" : "target-cm-d33aefedc5207be5d6f0.json",
+					"name" : "cm",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 1,
 					"id" : "core::@57760688d1f824db5d9c",
-					"jsonFile" : "target-core-71ba9a1d53091d0cc149.json",
+					"jsonFile" : "target-core-e908436aedcb35465d64.json",
 					"name" : "core",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 2,
 					"id" : "engine::@4088515cb4035b412499",
-					"jsonFile" : "target-engine-dd9ec77045f9087eec48.json",
+					"jsonFile" : "target-engine-7a17372d757c06fc9c77.json",
 					"name" : "engine",
 					"projectIndex" : 0
 				}

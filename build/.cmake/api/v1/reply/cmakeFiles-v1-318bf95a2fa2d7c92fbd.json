@@ -1,0 +1,231 @@
+{
+	"globsDependent" : 
+	[
+		{
+			"expression" : "/Users/wangjiawei/Dev/code-space/github/C++/cc-infrastructure/cm/include/*.h",
+			"paths" : 
+			[
+				"/Users/wangjiawei/Dev/code-space/github/C++/cc-infrastructure/cm/include/cm/util/JsonUtil.h"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "/Users/wangjiawei/Dev/code-space/github/C++/cc-infrastructure/cm/src/*.cpp",
+			"paths" : 
+			[
+				"/Users/wangjiawei/Dev/code-space/github/C++/cc-infrastructure/cm/src/util/JsonUtil.cpp"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "/Users/wangjiawei/Dev/code-space/github/C++/cc-infrastructure/core/include/*.h",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/Users/wangjiawei/Dev/code-space/github/C++/cc-infrastructure/core/src/*.cpp",
+			"paths" : 
+			[
+				"/Users/wangjiawei/Dev/code-space/github/C++/cc-infrastructure/core/src/main.cpp"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "/Users/wangjiawei/Dev/code-space/github/C++/cc-infrastructure/engine/include/*.h",
+			"paths" : 
+			[
+				"/Users/wangjiawei/Dev/code-space/github/C++/cc-infrastructure/engine/include/engine/calculate.h"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "/Users/wangjiawei/Dev/code-space/github/C++/cc-infrastructure/engine/src/*.cpp",
+			"paths" : 
+			[
+				"/Users/wangjiawei/Dev/code-space/github/C++/cc-infrastructure/engine/src/calculate.cpp"
+			],
+			"recurse" : true
+		}
+	],
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.30.4/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/wangjiawei/Dev/env/vcpkg/scripts/buildsystems/vcpkg.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.4/share/cmake/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.4/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.4/share/cmake/Modules/Platform/Darwin-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.30.4/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.4/share/cmake/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.4/share/cmake/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.4/share/cmake/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.4/share/cmake/Modules/Platform/Darwin.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.4/share/cmake/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.4/share/cmake/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.4/share/cmake/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.4/share/cmake/Modules/Compiler/AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.4/share/cmake/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.4/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.4/share/cmake/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.4/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.4/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.4/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.4/share/cmake/Modules/Platform/Apple-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.4/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "vcpkg.json"
+		},
+		{
+			"path" : "vcpkg-configuration.json"
+		},
+		{
+			"path" : "core/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/arm64-osx/share/fmt/fmt-config-version.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/arm64-osx/share/fmt/fmt-config.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/arm64-osx/share/fmt/fmt-targets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/arm64-osx/share/fmt/fmt-targets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/arm64-osx/share/fmt/fmt-targets-release.cmake"
+		},
+		{
+			"path" : "engine/CMakeLists.txt"
+		},
+		{
+			"path" : "cm/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/arm64-osx/share/nlohmann_json/nlohmann_jsonConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/arm64-osx/share/nlohmann_json/nlohmann_jsonConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.4/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.4/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/arm64-osx/share/nlohmann_json/nlohmann_jsonTargets.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/Users/wangjiawei/Dev/code-space/github/C++/cc-infrastructure/build",
+		"source" : "/Users/wangjiawei/Dev/code-space/github/C++/cc-infrastructure"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}
